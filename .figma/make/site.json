@@ -1,0 +1,10 @@
+{
+  "description": "Evolie's website showcases their creative digital agency services, offering UI/UX design, web development, and graphic design to elevate client projects.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
