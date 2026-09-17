@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
-import evolieLogo from "@/imports/ChatGPT_Image_Sep_2__2026__10_41_23_AM.png";
-import foxMascot from "@/imports/green_screen_mascot_1.png";
-import emailjs from "@/emailjs/browser";
+import evolieLogo from "imports/ChatGPT_Image_Sep_2__2026__10_41_23_AM.png";
+import foxMascot from "imports/green_screen_mascot_1.png";
+import emailjs from "emailjs/browser";
 
 // ─── Scroll reveal hook ───────────────────────────────────────────────────────
 function useReveal(threshold = 0.15) {
